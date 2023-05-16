@@ -14,12 +14,12 @@ function range_vision(num){
     })
 
     if(tieneUno){
-        let ubicacionUnos = []
+        /*let ubicacionUnos = []
         for(let i = 0; i > arrayNum.length; i++){
             if(arrayNum[i]==1){
                 ubicacionUnos.push(i)
             }
-        }
+        }*/
 
         let objNum = []
 
